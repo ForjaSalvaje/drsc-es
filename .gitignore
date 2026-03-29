@@ -2,5 +2,5 @@ ignore*
 .vscode
 .~*
 .htmlvalidate.json
-.txt
-.py
+*.txt
+*.py
